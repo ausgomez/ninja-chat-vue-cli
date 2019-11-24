@@ -1,6 +1,7 @@
 # ninja-chat
 
-> Ninja Char
+> Ninja Chat
+> I learned how to do this project thanks to this [course](https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/) on [Udemy](https://www.udemy.com/)
 
 ## Build Setup
 
