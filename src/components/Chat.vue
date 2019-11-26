@@ -1,6 +1,6 @@
 <template>
   <div class="chat container">
-      <h2 class="center teal-text">ET Chat</h2>
+      <h2 class="center teal-text">Awesome Chat</h2>
       <p class="center teal-text">Random people chatting</p>
       <div class="card">
           <div class="card-content">
